@@ -5,8 +5,8 @@
 // ================================
 // WiFi Credentials
 // ================================
-const char* ssid = "protosem";
-const char* password = "Proto#123";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // ================================
 // LED Configuration
